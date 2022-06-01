@@ -1,2 +1,2 @@
 # logControl
- Programa que faz gerenciamento de clientes, produtos e vendas, unsado interface gráfica framework PySimpleGUI
+ Programa que faz gerenciamento de clientes, produtos e vendas, unsado Python 3 e interface gráfica framework PySimpleGUI.
