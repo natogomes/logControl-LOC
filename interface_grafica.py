@@ -79,8 +79,8 @@ def window_cad_cliente(nome):
         [sg.Button('Concluir', button_color='#cccccc', font='arial 12', size=(10, 1), pad=(10, (20, 0))),
          sg.Button('Fechar', font='arial 12', size=(8, 1), pad=(10, (20, 0)))]
     ]
-    winCad = sg.Window('Cadastro de Clientes', icon=logo, layout=layout, element_justification='center', element_padding=(0, 0),
-                       size=(550, 400), finalize=True)
+    winCad = sg.Window('Cadastro de Clientes', icon=logo, layout=layout, element_justification='center',
+                       element_padding=(0, 0), size=(550, 400), finalize=True)
 
 
 # CRIA A JANELA DE CADASTRO DE PRODUTOS
